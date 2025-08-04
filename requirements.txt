@@ -1,0 +1,8 @@
+pyautogen
+autogen-ext[openai]
+python-dotenv
+google-generativeai
+autogen-core
+pillow
+tiktoken
+pydantic
